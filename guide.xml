@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TV CANAIS RTP2">
+    <display-name lang="pt">TV CANAIS RTP2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">SIC NOTICIAS</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC MULHER1">
+    <display-name lang="pt">SIC MULHER1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">RTP AFRICA</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA2">
+    <display-name lang="pt">RTP MEMORIA2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CANAL V">
+    <display-name lang="pt">CANAL V</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="LOCALVISAO TV1">
+    <display-name lang="pt">LOCALVISAO TV1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TV CANAIS MVM">
+    <display-name lang="pt">TV CANAIS MVM</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="REGIOES-TV">
+    <display-name lang="pt">REGIOES-TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="DISCOVERY CHANEL">
+    <display-name lang="pt">DISCOVERY CHANEL</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ODISSEIA1">
+    <display-name lang="pt">ODISSEIA1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="HISTORIA">
+    <display-name lang="pt">HISTORIA</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAFHIC CHANNEL">
+    <display-name lang="pt">NATIONAL GEOGRAFHIC CHANNEL</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="pt">NAT GEO WILD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">RTP ACORES</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="A&amp;E PAGINA CANAIS E GUIA TV">
+    <display-name lang="pt">A&amp;E PAGINA CANAIS E GUIA TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AXN1">
+    <display-name lang="pt">AXN1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX COMEDY GUIA TV">
+    <display-name lang="pt">FOX COMEDY GUIA TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX LIFE1">
+    <display-name lang="pt">FOX LIFE1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AXN WHITE1">
+    <display-name lang="pt">AXN WHITE1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CANAL HOLLYWOOD">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AMC1">
+    <display-name lang="pt">AMC1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MOV1">
+    <display-name lang="pt">MOV1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AXN BLACK1">
+    <display-name lang="pt">AXN BLACK1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVC 1 HD">
+    <display-name lang="pt">TVC 1 HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVC 2 HD">
+    <display-name lang="pt">TVC 2 HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVC 3">
+    <display-name lang="pt">TVC 3</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVC 4">
+    <display-name lang="pt">TVC 4</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVSERIES HD1">
+    <display-name lang="pt">TVSERIES HD1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR1">
+    <display-name lang="pt">DISNEY JUNIOR1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">JIM JAM</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL2">
+    <display-name lang="pt">DISNEY CHANNEL2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CANAL PANDA1">
+    <display-name lang="pt">CANAL PANDA1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">BIGGS</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV11">
+    <display-name lang="pt">SPORT TV11</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV21">
+    <display-name lang="pt">SPORT TV21</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV31">
+    <display-name lang="pt">SPORT TV31</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV41">
+    <display-name lang="pt">SPORT TV41</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">SPORT TV 5</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">EUROSPORT 1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="EUROSPORT 21">
+    <display-name lang="pt">EUROSPORT 21</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="EUROSPORT NEWS1">
+    <display-name lang="pt">EUROSPORT NEWS1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="GUIA TV BTV1">
+    <display-name lang="pt">GUIA TV BTV1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="GUIA TV BTV1HD">
+    <display-name lang="pt">GUIA TV BTV1HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="GUIA TV BTV2">
+    <display-name lang="pt">GUIA TV BTV2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="GUIA TV BTV2HD">
+    <display-name lang="pt">GUIA TV BTV2HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MOTORS TV">
+    <display-name lang="pt">MOTORS TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="VH12">
+    <display-name lang="pt">VH12</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">MCM TOP</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="pt">TRACE URBAN</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC1">
+    <display-name lang="pt">AFRO MUSIC1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MEZZO1">
+    <display-name lang="pt">MEZZO1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MUSIC TV">
+    <display-name lang="pt">MUSIC TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="pt">VH1 CLASSIC</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MTV MUSIC1">
+    <display-name lang="pt">MTV MUSIC1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">24 KITCHEN</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="E">
+    <display-name lang="pt">E</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ARTE V2">
+    <display-name lang="pt">ARTE V2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="pt">CBS REALITY</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MAS CHIC">
+    <display-name lang="pt">MAS CHIC</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FASHION TV4">
+    <display-name lang="pt">FASHION TV4</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SAT 1 V2">
+    <display-name lang="pt">SAT 1 V2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SKY NEWS V2">
+    <display-name lang="pt">SKY NEWS V2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="BBC WORLD-NEWS">
+    <display-name lang="pt">BBC WORLD-NEWS</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="pt">FRANCE 24</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ALJAZEERA">
+    <display-name lang="pt">ALJAZEERA</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="pt">BLOOMBERG</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVGLOBO-PREMIUM">
+    <display-name lang="pt">TVGLOBO-PREMIUM</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="pt">TV RECORD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TELEVISION DE GALICIA">
+    <display-name lang="pt">TELEVISION DE GALICIA</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ANDALUCIA V2">
+    <display-name lang="pt">ANDALUCIA V2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="pt">TV5 MONDE</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TELESUR">
+    <display-name lang="pt">TELESUR</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="pt">DW</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="INTER TV">
+    <display-name lang="pt">INTER TV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="CANCAO NOVA">
+    <display-name lang="pt">CANCAO NOVA</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD2">
+    <display-name lang="pt">SPORT TV 1 HD2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 2 HD2">
+    <display-name lang="pt">SPORT TV 2 HD2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 3 HD2">
+    <display-name lang="pt">SPORT TV 3 HD2</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 4 HD">
+    <display-name lang="pt">SPORT TV 4 HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SPORT TV 5HD">
+    <display-name lang="pt">SPORT TV 5HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="EUROSPORT HD1">
+    <display-name lang="pt">EUROSPORT HD1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC CHANNEL HD1">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC CHANNEL HD1</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="DISCOVERY-HD-SHOWCASE">
+    <display-name lang="pt">DISCOVERY-HD-SHOWCASE</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="LUXE TV HD">
+    <display-name lang="pt">LUXE TV HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="MYZEN">
+    <display-name lang="pt">MYZEN</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="FOX-HD">
+    <display-name lang="pt">FOX-HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="ICONCERTS HD">
+    <display-name lang="pt">ICONCERTS HD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+</tv>
